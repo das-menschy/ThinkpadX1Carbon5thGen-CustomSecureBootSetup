@@ -1,0 +1,4 @@
+#!/bin/bash 
+# [![BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_01_Enter_New_Password.gif](https://s5.gifyu.com/images/BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_01_Enter_New_Password.gif)](https://gifyu.com/image/S3LFe)
+convert -delay 30 -loop 1 BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_01_Enter_New_Password_-_* BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_01_Enter_New_Password.gif
+convert -delay 30 -loop 1 BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_02_Confirm_New_Password_-_* BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_02_Confirm_New_Password.gif
