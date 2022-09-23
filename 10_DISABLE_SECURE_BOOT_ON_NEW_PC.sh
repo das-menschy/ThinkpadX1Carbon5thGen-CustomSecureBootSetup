@@ -1,0 +1,3 @@
+#!/bin/bash 
+convert -delay 50 10_DISABLE_SECURE_BOOT_ON_NEW_PC/*.png 10_DISABLE_SECURE_BOOT_ON_NEW_PC.mp4
+convert -delay 50 -loop 1 10_DISABLE_SECURE_BOOT_ON_NEW_PC/*.png 10_DISABLE_SECURE_BOOT_ON_NEW_PC.gif
