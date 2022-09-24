@@ -47,3 +47,8 @@
 * DE: Das UEFI/BIOS-Unterbrechungs-Menü sieht so ähnlich aus wie dieses: 
 
 ![00_Startup_-_02_Interrupt_Menu.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/00_Startup_-_02_Interrupt_Menu.png) 
+
+* EN: When the UEFI/BIOS Setup program is opened, the Main screen will look similar to this: 
+* DE: Wenn das UEFI/BIOS-Einrichtungs-Programm geöffnet ist, sieht der Hauptbildschirm so ähnlich wie dieser aus: 
+
+![BIOS_Setup_-_01_Main_Screen_-_Version_N1MET70W_SecureBoot_on.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_01_Main_Screen_-_Version_N1MET70W_SecureBoot_on.png)  
