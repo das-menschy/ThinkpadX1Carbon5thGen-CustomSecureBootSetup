@@ -48,6 +48,9 @@
 
 ![00_Startup_-_02_Interrupt_Menu.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/00_Startup_-_02_Interrupt_Menu.png) 
 
+* EN: Press the UEFI/BIOS Setup key now. 
+* DE: Drücken Sie nun die UEFI/BIOS-Einrichtungs-Taste. 
+
 * EN: When the UEFI/BIOS Setup program is opened, the Main screen will look similar to this: 
 * DE: Wenn das UEFI/BIOS-Einrichtungs-Programm geöffnet ist, sieht der Hauptbildschirm so ähnlich wie dieser aus: 
 
