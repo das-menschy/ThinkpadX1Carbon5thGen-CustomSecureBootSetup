@@ -9,3 +9,41 @@
 
 * EN: In order to protect the UEFI / BIOS firmware settings, so that Secure Boot cannot be turned off without a password, it is wise to protect the UEFI / BIOS firmware settings with a password, called "Supervisor Password". 
 * DE: Um die UEFI / BIOS Firmware-Einstellungen zu schützen, sodass SecureBoot nicht einfach wieder deaktiviert werden kann ohne ein Passwort, ist es ratsam, die UEFI / BIOS Firmware-Einstellungen mit einem Passwort zu schützen. Dieses Passwort wird "Supervisor Passwort" genannt. 
+
+* EN: Press the power button of your laptop and shortly (!) after that the UEFI-BIOS Setup key(s), which are dependant on your PC manufacturer and model: 
+* DE: Drücken Sie den Ein/Aus-Schalt-Knopf und sehr schnell (!) danach die UEFI-BIOS-Einrichtungs-Taste(n), die für jeden PC-Hersteller und jedes PC-Modell anders ist oder sind: 
+
+| EN: UEFI/BIOS Setup key              | EN: Manufacturer or model            |
+| DE: UEFI/BIOS-Einrichtungs-Taste     | DE: Hersteller oder Modell           |
+| ------------------------------------ | ------------------------------------ |
+| F1                                   | Lenovo Desktop, Lenovo Thinkpads     |
+| F2                                   | ASRock, ASUS, Acer, Dell, Gigabyte,  |
+|                                      | Lenovo Laptops, Toshiba, Samsung,    |
+|                                      | Origin PC,                           |
+| F10                                  | HP                                   |
+| DEL / ENTF                           | ASRock, ASUS, ECS, Gigabyte / Aorus, |
+|                                      | MSI, Zotac                           |
+| Power + VolumeUp                     | Microsoft Surface                    | 
+| F12                                  | Toshiba Equium                       | 
+
+* EN: On many PC's, there is also a Startup Interrupt menu that can be opened by pressing an Interrupt key during boot.  
+* DE: Auf vielen PC's gibt es auch ein Boot-Unterbrechungs-Menü, das durch Drücken der Unterbrechungs-Taste während dem Boot-Vorgang aufgerufen werden kann. 
+* EN: This Startup Interrupt menu explains which keys are available to open the different UEFI/BIOS options. 
+* DE: Dieses UEFI/BIOS-Unterbrechungs-Menü erklärt, welche UEFI/BIOS-Optionen über die Tasten zur Verfügung stehen. 
+* EN: This key which opens the Startup Interrupt menu is also different for every manufacturer or model: 
+* DE: Diese Taste, die das UEFI/BIOS-Unterbrechungs-Menü öffnet, ist auch für jeden Hersteller und jedes Modell unterschiedlich: 
+
+| EN: UEFI/BIOS Interrupt menu key     | EN: Manufacturer or model            |
+| DE: UEFI/BIOS-Unterbrechungs-Taste   | DE: Hersteller oder Modell           |
+| ------------------------------------ | ------------------------------------ |
+| ENTER / EINGABE                      | Lenovo Thinkpad                      | 
+
+* EN: When the following boot screen is displayed, press the UEFI/BIOS Setup key or UEFI/BIOS Interrupt menu key:  
+* DE: Wenn der folgende Boot-Startbildschirm angezeigt wird, drücken Sie die UEFI/BIOS-Einrichtungs-Taste oder die UEFI/BIOS-Unterbrechungs-Taste: 
+
+![00_Startup_-_01_Boot_Screen.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/00_Startup_-_01_Boot_Screen.png) 
+
+* EN: The UEFI/BIOS Interrupt menu will look similar to his: 
+* DE: Das UEFI/BIOS-Unterbrechungs-Menü sieht so ähnlich aus wie dieses: 
+
+![00_Startup_-_02_Interrupt_Menu.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/00_Startup_-_02_Interrupt_Menu.png) 
