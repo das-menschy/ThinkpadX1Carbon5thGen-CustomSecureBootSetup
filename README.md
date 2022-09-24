@@ -82,3 +82,8 @@
 * DE: Tippen Sie das gewünschte UEFI/BIOS-Supervisor-Passwort noch einmal ein und drücken Sie die <kbd>ENTER</kbd>/<kbd>EINGABE</kbd>-Taste, um zu bestätigen: 
 
 ![BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_02_Confirm_New_Password.gif](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_02_Confirm_New_Password.gif)
+
+* EN: If the two UEFI/BIOS Supervisor passwords that you entered match together, then you should get a UEFI/BIOS Setup Notice saying that the "Changes have been saved". Press <kbd>ENTER</kbd> to **"continue"**. 
+* DE: Wenn die zwei UEFI/BIOS-Supervisor-Passwörter, die Sie eingegeben haben, übereinstimmen, dann sollte nun ein UEFI/BIOS-Einrichtungs-Hinweis erscheinen, der sagt: "Changes have been saved" (Ihre Änderungen wurden gespeichert). Drücken Sie die <kbd>ENTER</kbd>/<kbd>EINGABE</kbd>-Taste, um fortzufahren. 
+
+![BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_03_Changes_have_been_saved.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_03_Changes_have_been_saved.png) 
