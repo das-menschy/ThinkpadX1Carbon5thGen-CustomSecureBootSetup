@@ -14,7 +14,7 @@
 * DE: Drücken Sie den Ein/Aus-Schalt-Knopf und sehr schnell (!) danach die UEFI-BIOS-Einrichtungs-Taste(n), die für jeden PC-Hersteller und jedes PC-Modell anders ist oder sind: 
 
 | EN: UEFI/BIOS Setup key                | EN: Manufacturer or model          |
-| -------------------------------------- | ---------------------------------- |
+|:-------------------------------------- |:---------------------------------- |
 | **DE: UEFI/BIOS-Einrichtungs-Taste**   | **DE: Hersteller oder Modell**     |
 | F1                                     | Lenovo Desktop, Lenovo Thinkpads   |
 | F2                                     | ASRock, ASUS, Acer, Dell, Gigabyte,|
@@ -34,7 +34,7 @@
 * DE: Diese Taste, die das UEFI/BIOS-Unterbrechungs-Menü öffnet, ist auch für jeden Hersteller und jedes Modell unterschiedlich: 
 
 | EN: UEFI/BIOS Interrupt menu key       | EN: Manufacturer or model          |
-| -------------------------------------- | ---------------------------------- |
+|:-------------------------------------- |:---------------------------------- |
 | **DE: UEFI/BIOS-Unterbrechungs-Taste** | **DE: Hersteller oder Modell**     |
 | ENTER / EINGABE                        | Lenovo Thinkpad                    | 
 
