@@ -7,8 +7,8 @@
 ## EN: 1. ADDING A UEFI-BIOS FIRMWARE PASSWORD
 ## DE: 1. HINZUFÜGEN EINES UEFI-BIOS FIRMWARE PASSWORTES
 
-* EN: In order to protect the UEFI / BIOS firmware settings, so that Secure Boot cannot be turned off without a password, it is wise to protect the UEFI / BIOS firmware settings with a password, called "Supervisor Password". 
-* DE: Um die UEFI / BIOS Firmware-Einstellungen zu schützen, sodass SecureBoot nicht einfach wieder deaktiviert werden kann ohne ein Passwort, ist es ratsam, die UEFI / BIOS Firmware-Einstellungen mit einem Passwort zu schützen. Dieses Passwort wird "Supervisor Passwort" genannt. 
+* EN: In order to protect the UEFI / BIOS firmware settings, so that Secure Boot cannot be turned off without a password, it is wise to protect the UEFI/BIOS firmware settings with a password, called "Supervisor Password". 
+* DE: Um die UEFI / BIOS Firmware-Einstellungen zu schützen, sodass SecureBoot nicht einfach wieder deaktiviert werden kann ohne ein Passwort, ist es ratsam, die UEFI/BIOS-Firmware-Einstellungen mit einem Passwort zu schützen. Dieses Passwort wird "Supervisor Passwort" genannt. 
 
 * EN: Press the power button of your laptop and shortly (!) after that the UEFI-BIOS Setup key(s), which are dependant on your PC manufacturer and model: 
 * DE: Drücken Sie den Ein/Aus-Schalt-Knopf und sehr schnell (!) danach die UEFI-BIOS-Einrichtungs-Taste(n), die für jeden PC-Hersteller und jedes PC-Modell anders ist oder sind: 
@@ -16,15 +16,15 @@
 | EN: UEFI/BIOS Setup key                | EN: Manufacturer or model          |
 |:-------------------------------------- |:---------------------------------- |
 | **DE: UEFI/BIOS-Einrichtungs-Taste**   | **DE: Hersteller oder Modell**     |
-| F1                                     | Lenovo Desktop, Lenovo Thinkpads   |
-| F2                                     | ASRock, ASUS, Acer, Dell, Gigabyte,|
+| <kbd>F1</kbd>                          | Lenovo Desktop, Lenovo Thinkpads   |
+| <kbd>F2</kbd>                          | ASRock, ASUS, Acer, Dell, Gigabyte,|
 |                                        | Lenovo Laptops, Toshiba, Samsung,  |
 |                                        | Origin PC,                         |
-| F10                                    | HP                                 |
-| F12                                    | Toshiba Equium                     | 
-| DEL / ENTF                             | ASRock, ASUS, ECS, Gigabyte/Aorus, |
+| <kbd>F10</kbd>                         | HP                                 |
+| <kbd>F12</kbd>                         | Toshiba Equium                     | 
+| <kbd>DEL</kbd> / <kbd>ENTF</kbd>       | ASRock, ASUS, ECS, Gigabyte/Aorus, |
 |                                        | MSI, Zotac                         |
-| Power + VolumeUp                       | Microsoft Surface                  | 
+| <kbd>Power</kbd> + <kbd>VolumeUp</kbd> | Microsoft Surface                  | 
 
 * EN: On many PC's, there is also a UEFI/BIOS Interrupt menu that can be opened by pressing an Interrupt key during boot.  
 * DE: Auf vielen PC's gibt es auch ein UEFI/BIOS-Unterbrechungs-Menü, das durch Drücken der Unterbrechungs-Taste während dem Boot-Vorgang aufgerufen werden kann. 
@@ -36,7 +36,7 @@
 | EN: UEFI/BIOS Interrupt menu key       | EN: Manufacturer or model          |
 |:-------------------------------------- |:---------------------------------- |
 | **DE: UEFI/BIOS-Unterbrechungs-Taste** | **DE: Hersteller oder Modell**     |
-| ENTER / EINGABE                        | Lenovo Thinkpad                    | 
+| <kbd>ENTER</kbd> / <kbd>EINGABE</kbd>  | Lenovo Thinkpad                    | 
 
 * EN: When the following boot screen is displayed, press the UEFI/BIOS Setup key or UEFI/BIOS Interrupt menu key:  
 * DE: Wenn der folgende Boot-Startbildschirm angezeigt wird, drücken Sie die UEFI/BIOS-Einrichtungs-Taste oder die UEFI/BIOS-Unterbrechungs-Taste: 
@@ -55,3 +55,15 @@
 * DE: Wenn das UEFI/BIOS-Einrichtungs-Programm geöffnet ist, sieht der Hauptbildschirm so ähnlich wie dieser aus: 
 
 ![BIOS_Setup_-_01_Main_Screen_-_Version_N1MET70W_SecureBoot_on.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_01_Main_Screen_-_Version_N1MET70W_SecureBoot_on.png)  
+
+* EN: Inside the UEFI/BIOS Setup program, navigate to the **"Security"** tab by pressing the RIGHT-ARROW <kbd>→</kbd> key three times: 
+* DE: Navigieren Sie im UEFI/BIOS-Einrichtungs-Programm zum **"Security"**/Sicherheits-Tab, indem Sie die Pfeil-Taste nach rechts <kbd>→</kbd> auf ihrer Tastatur dreimal drücken: 
+
+![BIOS_Setup_-_02_Config.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_02_Config.png) 
+![BIOS_Setup_-_03_Date_and_Time.03s-passed.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_03_Date_and_Time.03s-passed.png) 
+![BIOS_Setup_-_04_Security_-_01_Password_-_00.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_04_Security_-_01_Password_-_00.png) 
+
+* EN: In the **"Security"** tab on the **"Password"** menu option, press **<kbd>ENTER</kbd>** to open the UEFI/BIOS password settings. 
+* DE: Drücken Sie im **"Security"**/Sicherheits-Tab auf der **"Password"**/Passwort-Option die **<kbd>ENTER</kbd>/<kbd>EINGABE</kbd>**-Taste, um die UEFI/BIOS-Passwort-Einstellungen zu öffnen: 
+
+![BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_00_Disabled.png](00_ADD_SUPERVISOR_ON_NEW_PC/BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_00_Disabled.png) 
