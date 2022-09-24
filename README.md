@@ -67,3 +67,8 @@
 * DE: Drücken Sie im **"Security"**/Sicherheits-Tab auf der **"Password"**/Passwort-Option die **<kbd>ENTER</kbd>/<kbd>EINGABE</kbd>**-Taste, um die UEFI/BIOS-Passwort-Einstellungen zu öffnen: 
 
 ![BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_00_Disabled.png](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_00_Disabled.png) 
+
+* EN: When the UEFI/BIOS Supervisor Password is "Disabled" as shown, you can press <kbd>ENTER</kbd> to set a UEFI/BIOS Supervisor Password: 
+* DE: Wenn das UEFI/BIOS Supervisor Password "Disabled"/"deaktiviert" ist, drücken Sie die <kbd>ENTER</kbd>/<kbd>EINGABE</kbd>-Taste, um ein UEFI/BIOS-Supervisor-Passwort festzulegen: 
+
+![BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_01_Enter_New_Password_-_00_letters.gif](00_ADD_SUPERVISOR_PASSWORD_ON_NEW_PC/BIOS_Setup_-_04_Security_-_01_Password_-_01_Supervisor_Password_-_01_Enter_New_Password_-_00_letters.gif)
